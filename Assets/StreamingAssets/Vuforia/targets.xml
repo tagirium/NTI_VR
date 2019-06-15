@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="stadion" size="4.000000 6.466488" />
+    <ImageTarget name="cafe" size="4.000000 6.740158" />
+    <ImageTarget name="field" size="4.000000 5.761194" />
+    <ImageTarget name="pekarnya" size="4.000000 5.901809" />
+    <ImageTarget name="radio" size="4.000000 5.980100" />
+  </Tracking>
+</QCARConfig>
